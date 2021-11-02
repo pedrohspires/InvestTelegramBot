@@ -1,0 +1,11 @@
+{
+    "API_KEY" : "",
+    "CHAT_ID" : "",
+    "TELEGRAM_TOKEN": "",
+
+    "STOCKS" : [
+        "STOCK 1",
+        "STOCK 2",
+        "..."
+    ]
+}
